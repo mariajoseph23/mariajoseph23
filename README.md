@@ -35,6 +35,9 @@ Multi-AZ, failure-isolated, cost-aware cloud platform design.
 → Repository:  
 https://github.com/mariajoseph23/aws-3tier-architecture
 
+→ AWS Static Websit
+https://mariajosephik.com/
+
 → Engineering write-up on Medium:  
 https://medium.com/@mjscharm/designing-a-production-grade-3-tier-aws-architecture-for-high-availability-and-scale-43985c0edb6e
 
