@@ -35,7 +35,7 @@ Multi-AZ, failure-isolated, cost-aware cloud platform design.
 → Repository:  
 https://github.com/mariajoseph23/aws-3tier-architecture
 
-→ Website:
+→ Website: 
 https://mariajosephik.com
 
 → Engineering write-up on Medium:  
