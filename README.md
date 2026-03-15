@@ -35,7 +35,7 @@ Multi-AZ, failure-isolated, cost-aware cloud platform design.
 → Repository:  
 https://github.com/mariajoseph23/aws-3tier-architecture
 
-→ AWS Static Websit
+→ AWS Static Websit:
 https://mariajosephik.com/
 
 → Engineering write-up on Medium:  
@@ -76,5 +76,5 @@ I am continuously refining cloud platform design patterns, building production-g
 
 📫 Connect with me  
 LinkedIn: https://www.linkedin.com/in/maria-joseph-ikponmwosa-36108b232 
-Website: https://mariajosephik.com/
+Website: https://mariajosephik.com
 Medium: https://medium.com/@mjscharm
