@@ -3,7 +3,7 @@
 
 I design and engineer production-ready AWS platforms that power high-availability, data-intensive systems.
 
-With 15+ years of experience across financial, government, and SaaS environments, my background began in deep database engineering and evolved into cloud platform architecture. Today, I operate at the intersection of infrastructure, automation, resilience engineering, and distributed data systems.
+With 10+ years of experience across financial, government, and SaaS environments, my background began in deep database engineering and evolved into cloud platform architecture. Today, I operate at the intersection of infrastructure, automation, resilience engineering, and distributed data systems.
 
 I don’t just deploy infrastructure.  
 I engineer systems that survive failure, scale under load, and remain cost-efficient in production.
@@ -73,4 +73,5 @@ I am continuously refining cloud platform design patterns, building production-g
 
 📫 Connect with me  
 LinkedIn: https://www.linkedin.com/in/maria-joseph-ikponmwosa-36108b232 
+Website: https://mariajosephik.com/
 Medium: https://medium.com/@mjscharm
