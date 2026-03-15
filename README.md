@@ -76,5 +76,5 @@ I am continuously refining cloud platform design patterns, building production-g
 
 📫 Connect with me  
 LinkedIn: https://www.linkedin.com/in/maria-joseph-ikponmwosa-36108b232 
-Website: https://mariajosephik.com
+Website: https://mariajosephik.com  
 Medium: https://medium.com/@mjscharm
